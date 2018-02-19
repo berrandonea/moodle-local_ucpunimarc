@@ -283,4 +283,5 @@ addfile_form.php  addfile.php  block_ucpunimarc_form.php  block_ucpunimarc.php  
 berrandonea@videotheque:/var/www/theses/local/ucpunimarc$ ls
 lang  lib.php  ucpunimarc_form.php  ucpunimarc.php  version.php
 
+Pour récupérer tous ces fichiers, récupérer la VM vidéothèque telle qu'elle était le 19/02 à midi.
 */
