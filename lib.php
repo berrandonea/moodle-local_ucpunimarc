@@ -276,3 +276,11 @@ function ucpunimarc_add_group_grouping($gid, $gpid) {
     $new->timeadded = time();
     return $DB->insert_record('groupings_groups', $new);
 }
+
+/*
+berrandonea@videotheque:/var/www/theses/blocks/ucpunimarc$ ls
+addfile_form.php  addfile.php  block_ucpunimarc_form.php  block_ucpunimarc.php  db  edit_form.php  lang  locallib.php  version.php
+berrandonea@videotheque:/var/www/theses/local/ucpunimarc$ ls
+lang  lib.php  ucpunimarc_form.php  ucpunimarc.php  version.php
+
+*/
